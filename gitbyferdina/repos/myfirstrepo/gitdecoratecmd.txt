@@ -1,3 +1,1 @@
-* 9cf3a54 (HEAD, origin/master, master) first commit
-* d13071a myfile.txt
-* 8fcdd8a first commit, hooray :)
+git config --global alias.tree 'log --graph --decorate --pretty=oneline --abbrev-commit'
